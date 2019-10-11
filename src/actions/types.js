@@ -14,6 +14,3 @@ export const ADD_VALUE = 'add_value';
 export const SEARCH_VALUE_MODAL = 'search_value_modal';
 export const CHANGE_VALUE_MODAL = 'change_value_modal';
 export const CHANGE_DECRIPTION_MODAL = 'change_decription_modal';
-
-
-
